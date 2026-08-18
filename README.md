@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/banner.svg" alt="Netheopoiesis" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/DrakesCraft-Labs/Netheopoiesis/main/banner.svg" alt="Netheopoiesis" width="100%"></p>
 
 # Netheopoiesis
 
